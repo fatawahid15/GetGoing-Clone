@@ -1,5 +1,3 @@
-Here’s the full `README.md` code for your project:
-
 # GetGoing Homepage Clone
 
 This project is a clone of the homepage of the GetGoing app, built to replicate its design and functionality using **React** and **TailwindCSS**. The purpose of this project is to practice and demonstrate frontend development skills by closely replicating a real-world design.
